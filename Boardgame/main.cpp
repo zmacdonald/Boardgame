@@ -2,14 +2,14 @@
 //  main.cpp
 //  Boardgame
 //
-//  Created by Brendan Keyworth on 2014-10-28.
+//  Created by Brendan Keyworth (6893551) and Zara MacDonald-Markham (6923788) on 2014-10-28.
 //  Copyright (c) 2014 BrendanKeyworth. All rights reserved.
 //
 
 #include <iostream>
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+    
+    
     return 0;
 }
